@@ -1,0 +1,198 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper{ /*gray background*/
+ width: 970px;
+ background-color: #c3d5d5;
+ margin: 0px auto;
+ padding: 10px 0px 20px 0px;
+}
+
+#Jayne{
+	display: inline-block;
+	margin: 0px 0px 10px 10px;
+	font-family: arial;
+	font-size: 30px;
+}
+#Master{
+	display: inline-block;
+	margin: 0px 0px 10px 470px;
+	font-family: arial;
+	font-size: 20px;
+}
+
+#background{ /*black background*/
+	background: radial-gradient(black,#606060,black);
+	padding: 20px;
+}
+
+#propic{
+	display: inline-block;
+	width: 48%;
+	margin-bottom: 10px;
+}
+
+#first{
+	vertical-align: top;
+	display: inline-block;
+	font-size: 20px;
+	background-color:  #A9A9A9;
+	width: 48%;
+	margin: 0px 0px 0px 20px;
+	padding: 10px 0px 0px 10px;
+}
+
+#about1{
+	display: inline-block;
+	background-color: #c3d5d5;
+	font-size: 15px;
+	margin: 10px 0px 0px -10px;
+	padding: 0px 0px 10px 10px;
+}
+
+#LAMode{
+	vertical-align: top;
+	display: inline-block;
+	background-color: #A9A9A9;
+	width: 32%;
+	margin-right: 10px;
+	padding: 5px 0px 10px 0px;
+}
+
+#LMtop{
+	color: white;
+	margin-left: 5px;
+}
+
+#pic2{
+	display: block;
+	width: 100%;
+}
+
+
+#LMtech{
+	background-color: #686868;
+	color: white;
+	padding: 5px;
+}
+.LMicon{
+
+	display: inline-block;
+	padding: 7px;
+	width: 14%;
+}
+#LMgreen{
+
+	background-color: green;
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	width: 60px;
+	border-radius: 5px;
+	margin: 0 auto;
+	
+}
+
+#Family{
+	vertical-align: top;
+	display: inline-block;
+	background-color: #A9A9A9;
+	width: 32%;
+	margin-right: 10px;
+	padding: 5px 0px 10px 0px;
+}
+#familytop{
+	color: white;
+	margin-left: 5px;
+}
+
+#familypic{
+	display: block;
+	width: 100%;
+}
+
+#familytech{
+	background-color: #686868;
+	color: white;
+	padding: 5px;
+}
+.familyicon{
+	display: inline-block;
+	padding: 7px;
+	width: 14%;
+}
+#familygreen{
+	background-color: green;
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	width: 110px;
+	border-radius: 5px;
+	margin: 0 auto;
+}
+
+#fiveEleven{
+	vertical-align: top;
+	display: inline-block;
+	background-color: #A9A9A9;
+	width: 32%;
+	padding: 5px 0px 10px 0px;
+}
+#fivetop{
+	color: white;
+	margin-left: 5px;
+}
+
+#fivepic{
+	display: block;
+	width: 100%;
+}
+
+#fivetech{
+	background-color: #686868;
+	color: white;
+	padding: 5px;
+}
+.fiveicon{
+	display: inline-block;
+	padding: 7px;
+	width: 14%;
+}
+#fivegreen{
+	background-color: green;
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	width: 80px;
+	border-radius: 5px;
+	margin: 0 auto;
+}
+
+.text{ /*all the text in the 3 middle section is group together for alignment sake*/
+	background-color: #BEBEBE;
+	font-size: 15px;
+	padding: 10px;
+	min-height: 150px;
+}
+
+#bottom{
+	
+	width: 300px;
+	margin: 10px auto;
+}
+#bottom2{
+	
+	width: 400px;
+	margin: 0 auto;
+}
+.bottomicon{
+	display: inline-block;
+	width: 6%;
+	margin-right: 2px;
+
+}
+.link{
+	display: inline-block;
+	text-align: middle;
+}
